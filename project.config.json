@@ -32,23 +32,12 @@
 		},
 		"miniprogram": {
 			"current": 0,
-			"list": [
-        {
-          "id": 2,
-          "name": "chooseLib",
-          "pathName": "pages/chooseLib/chooseLib"
-        },
+			"list": [				
 				{
 					"id": -1,
 					"name": "db guide",
 					"pathName": "pages/databaseGuide/databaseGuide"
-				},
-        {
-          "id": 1,
-          "name": "index",
-          "pathName": "pages/index/index"
-        }
-        
+				}				
 			]
 		}
 	}
