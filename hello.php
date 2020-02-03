@@ -1,1 +1,1 @@
-<?php echo 'www.web.cn'; 
+<?php echo 'www.webapp.cn'; 
