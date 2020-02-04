@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1line
 2line
+jiayuhome
 test content
+=======
+
+
+>>>>>>> jiayuhome
